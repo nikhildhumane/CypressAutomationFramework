@@ -1,0 +1,22 @@
+{
+  "name": "cypressautomationframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhildhumane/CypressAutomationFramework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhildhumane/CypressAutomationFramework/issues"
+  },
+  "homepage": "https://github.com/nikhildhumane/CypressAutomationFramework#readme",
+  "devDependencies": {
+    "cypress": "^13.14.2"
+  }
+}
